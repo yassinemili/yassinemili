@@ -5,7 +5,7 @@
 - 🤔 I’m looking for groups to work and help each others;
 - Self Education ;
 <a href="https://www.linkedin.com/in/yassine-mili-0193bb28a/" target="blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" width="40" />
 </a>
 <!--
 **yassinemili/yassinemili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
