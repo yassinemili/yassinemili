@@ -4,7 +4,7 @@
 -  💞️ I am a bachelor's student of computer science,I'm already have done all my major courses in programming and database. I'm a freelancer developer and I love working so hard.
 - 🤔 I’m looking for groups to work and help each others;
 - Self Education ;
-<a href="https://www.linkedin.com/in/yassine-mili-0193bb28a/" target="blank">
+<a href="https://www.linkedin.com/in/yassine-mili-0193bb28a/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" width="40" />
 </a>
 <!--
