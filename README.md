@@ -1,23 +1,59 @@
-# 👋 Hi, I’m @yassinemili
--   I’m interested specially in programing and developing ,,,,
--   I’m currently learning about myself for more development,,,
--   I am a bachelor's student of computer science,I'm already have done all my major courses in programming and database. I'm a freelancer developer and I love working so hard.
--   I’m looking for groups to work and help each others;
--   Self Education ;
-<a href="https://www.linkedin.com/in/yassine-mili-0193bb28a/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" width="40" />
-</a>
-<!--
-**yassinemili/yassinemili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm [Yassine Mili] 👋
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/Website-YourWebsite-FF6347?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
+[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a passionate Full Stack Developer 💻 from [Algeria]. I love building scalable and efficient applications. Check out some of my projects below!
+
+---
+
+### 💻 Technologies & Tools:
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
+
+---
+
+### 🏆 Achievements:
+
+- 💡 Contributed to multiple open-source projects.
+- 📚 I completed the [Full Stack Developer Program](#) and have built several full-stack applications.
+<!-- 📝 Author of several blog posts about web development and tech trends. -->
+
+---
+
+### 📈 GitHub Stats:
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+---
+<!---
+
+### 📚 Latest Blog Posts
+
+- [Building Scalable Applications with Node.js](https://yourblog.com/building-scalable-applications)
+- [A Guide to PostgreSQL Indexing](https://yourblog.com/postgresql-indexing)
+- [How Docker Transformed My Development Process](https://yourblog.com/how-docker-transformed-development)
+
+--->
+
+### 🤝 Let's Connect:
+
+- [LinkedIn](https://www.linkedin.com/in/yassine-mili-0193bb28a/)
+- [GitHub](https://github.com/yassinemili)
+
+---
+
+### 🎮 Fun Facts:
+
+- I enjoy playing video games in my free time.
+- I am passionate about open-source contributions and giving back to the community.
+- I like reading about the future of AI and machine learning.
+
+
