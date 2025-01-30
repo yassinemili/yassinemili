@@ -1,8 +1,7 @@
 ### Hi there, I'm Yassine Mili 👋
 
-[![Website](https://img.shields.io/badge/Website-YourWebsite-FF6347?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)
+<!--[![Website](https://img.shields.io/badge/Website-YourWebsite-FF6347?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yassine-mili-0193bb28a/)
 
 I am a passionate Full Stack Developer 💻 from Algeria. I love building scalable and efficient applications. Check out some of my projects below!
 
@@ -15,8 +14,6 @@ I am a passionate Full Stack Developer 💻 from Algeria. I love building scalab
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/)
 
 ---
 
