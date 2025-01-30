@@ -1,7 +1,8 @@
 ### Hi there, I'm Yassine Mili 👋
 
 <!--[![Website](https://img.shields.io/badge/Website-YourWebsite-FF6347?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yassine-mili-0193bb28a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yassine_Mili-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yassine-mili-0193bb28a/)
+
 
 I am a passionate Full Stack Developer 💻 from Algeria. I love building scalable and efficient applications. Check out some of my projects below!
 
