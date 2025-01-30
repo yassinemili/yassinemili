@@ -1,10 +1,10 @@
-### Hi there, I'm [Yassine Mili] 👋
+### Hi there, I'm Yassine Mili 👋
 
 [![Website](https://img.shields.io/badge/Website-YourWebsite-FF6347?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
 [![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)
 
-I am a passionate Full Stack Developer 💻 from [Algeria]. I love building scalable and efficient applications. Check out some of my projects below!
+I am a passionate Full Stack Developer 💻 from Algeria. I love building scalable and efficient applications. Check out some of my projects below!
 
 ---
 
@@ -26,13 +26,13 @@ I am a passionate Full Stack Developer 💻 from [Algeria]. I love building scal
 - 📚 I completed the [Full Stack Developer Program](#) and have built several full-stack applications.
 <!-- 📝 Author of several blog posts about web development and tech trends. -->
 
----
+<!---
 
 ### 📈 GitHub Stats:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=prs&theme=radical)
 
----
+--->
 <!---
 
 ### 📚 Latest Blog Posts
